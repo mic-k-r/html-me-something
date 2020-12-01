@@ -1,6 +1,9 @@
 body {
     font-family: 'Quicksand', sans-serif;
     background-color: #d3d8e0;
+    margin: 0, auto;
+    max-width: 70%;
+    padding: 20px, 100px, 20px;
 }
 
 p {
@@ -22,5 +25,6 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 70%;
+    border-radius: 20px;
   }
