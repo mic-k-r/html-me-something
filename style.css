@@ -1,0 +1,26 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #d3d8e0;
+}
+
+p {
+    font-weight: 300;
+    color: #69465e;
+}
+
+#header {
+    background-color: #feb7b2;
+    border-radius: 20px;
+}
+
+.title-text {
+    font-weight: 600;
+    color: #665b61;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
